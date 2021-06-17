@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # игнорировать файл README.md
 README.md.
+=======
+README.md.
+>>>>>>> cdc1eb20727f9b7f3892f2f316923132cb736046
